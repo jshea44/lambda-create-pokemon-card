@@ -1,5 +1,7 @@
 # Lambda Create Pokemon Card
 
+Lambda function used to create a pokemon card.
+
 ## Feature Tasks
 
 - Routing: API Gateway
@@ -10,3 +12,7 @@
 ## Testing
 
 - Should create a new pokemon card
+
+## Resources
+
+- ChatGPT
